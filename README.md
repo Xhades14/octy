@@ -15,22 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![WhatsApp Image 2024-03-16 at 12 35 49_90b9c921](https://github.com/user-attachments/assets/241affb2-b979-47da-9cab-deb175055b89)
+![WhatsApp Image 2024-03-16 at 12 36 01_a5f0ea47](https://github.com/user-attachments/assets/368a199f-98af-4cec-818f-386dc74b4e65)
+![WhatsApp Image 2024-03-16 at 12 36 18_307e4dca](https://github.com/user-attachments/assets/ff403401-14b3-4d15-a3e3-8284b5bea8a4)
+![WhatsApp Image 2024-03-16 at 14 21 57_6ce141cb](https://github.com/user-attachments/assets/0a9326e7-1d11-4cab-b6f2-5f4dbc232351)
